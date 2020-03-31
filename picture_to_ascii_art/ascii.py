@@ -21,7 +21,7 @@ ascii_char = list("$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI
 
 def get_char(r, g, b, alpha=256):
     if alpha == 0:
-        return ''
+        return ' '
 
     length = len(ascii_char)
 

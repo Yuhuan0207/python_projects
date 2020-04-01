@@ -1,5 +1,6 @@
 .DS_Store
 .idea/
 picture_to_ascii_art/ascii_art_env/
+python_scraping/python_scraping/
 *.png
 output.txt

@@ -3,4 +3,5 @@
 picture_to_ascii_art/ascii_art_env/
 python_scraping/python_scraping/
 *.png
+oop-small-projs/tic-tac-toe/__pycache__/tic_tac_toe.cpython-38.pyc
 output.txt

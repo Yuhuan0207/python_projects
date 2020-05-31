@@ -10,7 +10,7 @@ class GameState:
     def make_move(self, player, move):
         raise NotImplementedError("No generic update implemented!")
 
-    def legal_move(self, player, move):
+    def is_legal_move(self, player, move):
         raise NotImplementedError("No generic update implemented!")
 
     def game_over(self):
